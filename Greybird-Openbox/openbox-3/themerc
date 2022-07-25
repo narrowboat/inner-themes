@@ -4,41 +4,41 @@
 
 !! menu title
 
-menu.title.bg: 						                              	Flat Solid
-menu.title.bg.color: 				                                #DEDEDE
-menu.title.text.color: 				                                #2F2F2F
-menu.title.text.justify: 			                                center
+menu.title.bg:												  Flat Solid
+menu.title.bg.color: 				                          #DEDEDE
+menu.title.text.color: 				                          #2F2F2F
+menu.title.text.justify: 			                          center
 		
-menu.border.width: 					                                1
-menu.border.color:					                                #404040
+menu.border.width: 					                          1
+menu.border.color:					                          #404040
 
-menu.overlap.x: 					                                0
-menu.overlap.y:						                               	0
+menu.overlap.x: 					                          0
+menu.overlap.y:						                          0
 
 !!------------------------------------------------------------------------
 
 !! menu items
 
-menu.items.bg: 					                                    Flat Solid
-menu.items.bg.color:                                                #DEDEDE
-menu.items.text.color: 						                        #2F2F2F
+menu.items.bg: 					                               Flat Solid
+menu.items.bg.color:                                           #DEDEDE
+menu.items.text.color: 				                           #2F2F2F
 
-menu.items.justify:             		                            left
-menu.items.disabled.text.color: 		                            #5B5B5B
+menu.items.justify:                                            left
+menu.items.disabled.text.color:                                #5B5B5B
 
-menu.items.active.bg: 				                                Flat Solid
-menu.items.active.bg.color:				                            #3E84CE
-menu.items.active.text.color:                                       #FFFFFF
+menu.items.active.bg: 			                               Flat Solid
+menu.items.active.bg.color:		                               #3584e4
+menu.items.active.text.color:                                  #FFFFFF
 
 !!------------------------------------------------------------------------
 
 !! menu separator
 
-menu.separator.width:						                        1
+menu.separator.width:						                   1
 
-menu.separator.padding.width:					                    5
-menu.separator.padding.height:					                    5
-menu.separator.color:                   		                    #404040
+menu.separator.padding.width:					               5
+menu.separator.padding.height:					               5
+menu.separator.color:                   		               #404040
 
 !!------------------------------------------------------------------------
 
@@ -48,62 +48,62 @@ menu.separator.color:                   		                    #404040
 
 !! window title
 	
-window.active.title.bg: 					                              Flat Vertical
-window.active.title.bg.color: 		                              #DEDEDE
+window.active.title.bg: 			                            Flat Vertical
+window.active.title.bg.color: 		                            #DEDEDE
 
-window.inactive.title.bg: 				                              Flat Vertical
-window.inactive.title.bg.color: 		                            #DEDEDE
+window.inactive.title.bg: 				                        Flat Vertical
+window.inactive.title.bg.color: 		                        #DEDEDE
 
 !!------------------------------------------------------------------------
 
 !! window text
 
-padding.width: 							                                    5
-padding.height: 						                                    2
+padding.width: 						                            5
+padding.height: 					                            2
 window.label.text.justify:                                      center
 
-window.active.label.bg: 					                              Parentrelative
+window.active.label.bg: 			                            Parentrelative
 window.active.label.bg.color:                                   #DEDEDE
 window.active.label.bg.colorTo:                                 #DEDEDE
-window.active.label.text.color: 			                          #404040
+window.active.label.text.color: 			                    #404040
 
-window.inactive.label.bg: 					                            Parentrelative
+window.inactive.label.bg: 					                    Parentrelative
 window.inactive.label.bg.color:                                 #DEDEDE
 window.inactive.label.bg.colorTo:                               #DEDEDE
-window.inactive.label.text.color: 			                        #404040
+window.inactive.label.text.color: 			                    #404040
 
 !!------------------------------------------------------------------------
 
 !! window borders
 
-border.width: 							                                    1
-border.color: 						                                     	#979797
+border.width: 							                        1
+border.color: 						                           	#979797
 
-window.client.padding.width: 				                            0
-window.client.padding.height:				                            0			
+window.client.padding.width: 				                    0
+window.client.padding.height:				                    0			
 
-window.active.client.color:					                            #DEDEDE
-window.inactive.client.color:					                          #DEDEDE
+window.active.client.color:					                    #DEDEDE
+window.inactive.client.color:					                #DEDEDE
 
-window.active.title.separator.color:		                        #DEDEDE
-window.inactive.title.separator.color:		                      #DEDEDE
+window.active.title.separator.color:		                    #DEDEDE
+window.inactive.title.separator.color:		                    #DEDEDE
 
 !!------------------------------------------------------------------------
 
 !! window handle and grip
 
-window.handle.width: 						                                0
+window.handle.width: 						                    0
 
-window.active.handle.bg: 				                              	Flat Vertical
-window.active.handle.bg.color: 			                            #DEDEDE
+window.active.handle.bg: 				                        Flat Vertical
+window.active.handle.bg.color: 			                        #DEDEDE
 
-window.active.grip.bg: 						                              Flat Vertical
-window.active.grip.bg.color: 			                              #DEDEDE
+window.active.grip.bg: 						                    Flat Vertical
+window.active.grip.bg.color: 			                        #DEDEDE
 
-window.inactive.handle.bg: 				                              Flat Vertical
+window.inactive.handle.bg: 				                        Flat Vertical
 window.inactive.handle.bg.color:                                #DEDEDE
 
-window.inactive.grip.bg: 			                                  Flat Vertical
+window.inactive.grip.bg: 			                            Flat Vertical
 window.inactive.grip.bg.color:                                  #DEDEDE
 
 !!------------------------------------------------------------------------
@@ -114,7 +114,7 @@ window.inactive.grip.bg.color:                                  #DEDEDE
 
 !! ACTIVE	
 
-window.active.border.color:                                     #393939
+window.active.border.color:                                     #3584e4
 
 window.active.title.bg: flat solid
 window.active.title.bg.color:                                   #CECECE
@@ -140,7 +140,7 @@ window.active.button.hover.image.color:                         #2E2E2E
 
 window.active.button.pressed.bg:                                flat solid
 window.active.button.pressed.bg.color:                          #CECECE
-window.active.button.pressed.image.color:                       #3E84CE
+window.active.button.pressed.image.color:                       #3584e4
 
 window.active.button.disabled.bg:                               flat solid
 window.active.button.disabled.bg.color:                         #CECECE
@@ -178,7 +178,7 @@ window.inactive.button.hover.image.color:                       #2E2E2E
 
 window.inactive.button.pressed.bg:                              flat solid
 window.inactive.button.pressed.bg.color:                        #CECECE
-window.inactive.button.pressed.image.color:                     #3E84CE
+window.inactive.button.pressed.image.color:                     #3584e4
 
 window.inactive.button.disabled.bg:                             flat solid
 window.inactive.button.disabled.bg.color:                       #CECECE
@@ -198,7 +198,7 @@ osd.label.bg.color:                                             #CECECE
 osd.label.text.color:                                           #353535
 
 osd.hilight.bg:                                                 flat solid
-osd.hilight.bg.color:                                           #3E84CE
+osd.hilight.bg.color:                                           #3584e4
 
 osd.unhilight.bg:                                               flat solid
 osd.unhilight.bg.color:                                         #888888
